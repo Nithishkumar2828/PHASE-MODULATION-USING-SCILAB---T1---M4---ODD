@@ -41,5 +41,25 @@ Where:
    * Use Scilab's plotting commands (`subplot`, `plot`, `xtitle`, `xgrid`) to display message, carrier, and modulated signals.
 
 ---
+## TABULATION
 
-## MODEL GRAPH
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 34 46 PM" src="https://github.com/user-attachments/assets/8cdc286e-1003-4679-8cca-be9c021b410b" />
+
+## PROGRAM
+
+<img width="1600" height="1594" alt="WhatsApp Image 2026-09-24 at 3 34 57 PM" src="https://github.com/user-attachments/assets/c04d61ec-bb39-4cf4-a5df-71d5a90a6662" />
+
+<img width="1364" height="1600" alt="WhatsApp Image 2026-09-24 at 3 35 11 PM" src="https://github.com/user-attachments/assets/d22e8b72-bc34-4b0e-9fcd-3176c17688e7" />
+
+## GRAPH
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-24 at 3 35 15 PM" src="https://github.com/user-attachments/assets/5c8fae8d-c45b-46fd-b42a-1b46b0897fdc" />
+
+## RESULT 
+
+<img width="1599" height="726" alt="WhatsApp Image 2026-09-24 at 3 35 25 PM" src="https://github.com/user-attachments/assets/e759a9ac-9992-4670-a412-694e3b8417a4" />
+
+## MARK ALLOCATION
+<img width="1426" height="461" alt="WhatsApp Image 2026-09-24 at 3 35 40 PM" src="https://github.com/user-attachments/assets/bcc20f74-008a-4b43-92d0-db3120249f8f" />
+
+
+
